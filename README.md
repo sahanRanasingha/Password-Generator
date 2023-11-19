@@ -36,6 +36,13 @@ If you'd like to contribute, please follow these steps:
 3. Make your changes and commit them.
 4. Push to your fork and submit a pull request.
 
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/bmi-calculator.git
+```
 ## Acknowledgments
 
 Thank you for using the Password Generator! Your support is greatly appreciated.
